@@ -1,0 +1,7 @@
+To select all the phone numbers only (Regex)          \d{3}-\d{3}-\d{4}
+
+To select all the names (Regex)                                 ^[A-Z][A-Za-z].*
+
+To select all addresses (Regex)                                 ^[0-9]{3}\s\w.*
+
+To select all the emails (Regex)                                [A-Za-z0-9-.].+@\w.+\w.+
